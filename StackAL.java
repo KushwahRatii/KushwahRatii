@@ -1,4 +1,3 @@
-package apnaCollege.stack;
 import java.util.ArrayList;
 public class StackAL {
     static class Stack{
